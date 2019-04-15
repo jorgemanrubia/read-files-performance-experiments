@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    get_process_mem (0.2.3)
+    zeitwerk (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  get_process_mem
+  zeitwerk
+
+BUNDLED WITH
+   2.0.1
