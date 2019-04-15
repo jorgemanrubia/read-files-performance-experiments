@@ -2,7 +2,7 @@
 
 This are a set of experiments for testing the performance of approaches for processing big ruby text files.
 
-[Read the companion blog post](#)
+[Read the companion blog post](https://www.jorgemanrubia.com/2019/04/14/processing-text-files-in-ruby-simultaneously/)
 
 ### Single file
 
